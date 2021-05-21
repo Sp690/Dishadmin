@@ -1,5 +1,5 @@
 # Dishadmin
-react-redux
+A Dish admin page which performs CRUD operations using react and redux
 # Initial Setup
 Let’s start by creating a folder for our project called BookCards.
 cd into BookCards from command line, run npm init , and hit enter through all the prompts.
