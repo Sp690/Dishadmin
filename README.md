@@ -1,0 +1,2 @@
+# Dishadmin
+react-redux
